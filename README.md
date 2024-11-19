@@ -34,7 +34,7 @@ Contributions are welcome! If you have ideas to improve the landing page or enco
 ---
 
 ### 🌐 Live Demo
-[Click here to see the live page!](#) *(Update with your live link)*
+[Click here to see the live page!](https://nauc-ma.vercel.app/)
 
 ---
 

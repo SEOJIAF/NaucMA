@@ -1,4 +1,4 @@
-# Naučma Landing Page 🚀
+# NaučMa Landing Page 🚀
 
 Welcome to the **Naučma Landing Page** repository!
 This is the central entry point to explore all features and projects related to the Naučma app.

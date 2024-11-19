@@ -1,9 +1,10 @@
 # Naučma Landing Page 🚀
 
-Welcome to the **Naučma Landing Page** repository! This is the central entry point to explore all features and projects related to the Naučma app. The landing page is designed for seamless navigation and a clean, modern user experience.
-THIS PROJECT IS IN VERY EARLY DEVELOPMENT. 
-THINGS ARE BOUND TO CHANGE
+Welcome to the **Naučma Landing Page** repository!
+This is the central entry point to explore all features and projects related to the Naučma app.
+The landing page is designed for seamless navigation and a clean, modern user experience.
 ---
+
 
 ## 🌟 Features
 - **Centralized Navigation**  
@@ -36,6 +37,12 @@ Contributions are welcome! If you have ideas to improve the landing page or enco
 [Click here to see the live page!](#) *(Update with your live link)*
 
 ---
+
+THIS PROJECT IS IN VERY EARLY DEVELOPMENT. 
+THINGS ARE BOUND TO CHANGE
+---
+
+
 It looks like a mess.
 but damn it, it works!
 Thank you for visiting! 😊  

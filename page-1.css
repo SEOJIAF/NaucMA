@@ -77,7 +77,6 @@ button{
 }
 
 button:hover{
-    width: 100%;
     transition: 50ms;
     outline: 2px solid #e8e8e8;
     background: transparent;

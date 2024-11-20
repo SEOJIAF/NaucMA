@@ -4,7 +4,8 @@ Welcome to the **Naučma Landing Page** repository!
 This is the central entry point to explore all features and projects related to the Naučma app.
 The landing page is designed for seamless navigation and a clean, modern user experience.
 ---
-
+> [!IMPORTANT]  
+> Site is in very early access! Some buttons only have a placeholder and dont work.
 
 ## 🌟 Features
 - **Centralized Navigation**  

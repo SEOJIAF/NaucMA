@@ -189,3 +189,9 @@ button:hover {
   box-shadow: none;
   padding: 8px;
 }
+
+#fot{
+  display: flex;
+  justify-content: center;
+  color: #424242;
+}

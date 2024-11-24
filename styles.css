@@ -13,7 +13,6 @@
   --podnadpis: #222222;
 }
 
-/* Global Reset and Box Sizing */
 * {
   margin: 0;
   padding: 0;
@@ -23,7 +22,7 @@
 html, body {
   width: 100%;
   height: 100%;
-  overflow-x: hidden; /* Prevent horizontal scrolling */
+  overflow-x: hidden;
 }
 
 body {
@@ -56,12 +55,18 @@ header {
 
 #podnadpis {
   font-size: 30px;
-  color: var(--text); /* Grayish blue */
+  color: var(--text);
+  margin-bottom: 1rem;
+  margin-top: 10px;
+  text-align: center;
+}
+#podpodnadpis{
+  font-size: 20px;
+  color: var(--text);
   margin-bottom: 9rem;
   margin-top: 10px;
-  text-align: center; /* Center alignment without left margin */
+  text-align: center;
 }
-
 #headbt {
   display: flex;
   justify-content: space-evenly;
@@ -77,8 +82,8 @@ header {
   padding: 9%;  
   width: 100%;
   box-sizing: border-box;
-  height: auto; /* Ensured dynamic height */
-  margin: 0; /* Removed external margins */
+  height: auto; 
+  margin: 0; 
 }
 
 #cards{
@@ -95,8 +100,8 @@ button {
   padding: 12px 30px;
   font-size: 1rem;
   font-weight: bold;
-  color: var(--button-text); /* White */
-  background-color: var(--buttons); /* Soft teal */
+  color: var(--button-text);
+  background-color: var(--buttons);
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -104,11 +109,11 @@ button {
 }
 
 button:hover {
-  background-color: var(--buttons-hover); /* Darker teal */
+  background-color: var(--buttons-hover);
   transform: scale(1.05);
 }
 
-/* From Uiverse.io by gharsh11032000 */ 
+
 .card {
   position: relative;
   display: flex;

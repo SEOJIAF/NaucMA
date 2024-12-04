@@ -72,6 +72,7 @@ header {
 .features-section {
   padding: 50px 20px;
   text-align: center;
+  margin-bottom: 100px;
 }
 
 .features-container {
@@ -164,20 +165,6 @@ header {
   margin-bottom: 120px;
 }
 
-button {
-  font-family: "DM sans";
-  font-size: 20px;
-  color: #e8e8e8;
-  text-decoration: none;
-  padding: 10px;
-  font-weight: 600;
-  border: none;
-  cursor: pointer;
-  background: linear-gradient(-45deg, #ff918d 0%, #6f60cc 100%);
-    background-color: rgba(0, 0, 0, 0);
-  border-radius: 5px;
-  box-shadow: 0 0px 20px #553fe2;
-}
 
 button:hover {
   background-color: var(--buttons-hover);
@@ -309,6 +296,7 @@ button:hover {
   padding: 1em;
   transition: all 0.4s;
   cursor: pointer;
+  margin: 30px;
  }
  
  .button span {
@@ -347,6 +335,8 @@ button:hover {
   display: flex;
   justify-content: space-evenly;
 }
+
+
 
 
 #top-right-button {
@@ -431,4 +421,122 @@ button:hover {
 .Btn:active {
   transform: translate(2px ,2px);
   background: rgb(255, 65, 65);
+}
+
+
+
+
+
+
+
+/*COOL GIF CARDAS :))) */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cards{
+  display: flex;
+  justify-content: center;
+}
+
+/* Card Styles */
+.card2 {
+  display: flex;
+  width: 960px;
+  height: 480px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0px 30px var(--nadpis);
+  margin: 50px;
+}
+
+/* Left: Video Section */
+.video-section {
+  flex: 1;
+  overflow: hidden;
+}
+
+.video-section video {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+/* Right: Text Section */
+.text-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 32px;
+  background: #131313;
+  font-family: "Montserrat";
+}
+
+.text-section h5 {
+  font-size: 1.9rem;
+  margin-bottom: 16px;
+  background-image: linear-gradient(-45deg, #ff918d 0%, #6f60cc 100%);
+  color: transparent;
+  background-clip: text;
+}
+
+.text-section p {
+  font-size: 1.2rem;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+.skumat{
+  font-size: 30px;
+  color: var(--text);
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Left: Video Section */
+.video-section2 {
+  flex: 1;
+  overflow: hidden;
+}
+
+.video-section2 video {
+  width: 100%;
+  height: 100%;
+  object-fit:fill;
+}
+
+/* Left: Video Section */
+.video-section3 {
+  flex: 1;
+  overflow: hidden;
+}
+
+.video-section3 video {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+
+.button1{
+  display: flex;
+  justify-content: center;
+  display: inline-block;
+  border-radius: 7px;
+  border: none;
+  color: white;
+  font-family: inherit;
+  text-align: center;
+  font-size: 18px;
+  width: 15em;
+  padding: 1em;
+  transition: all 0.4s;
+  cursor: pointer;
+  margin: 30px;
+  background: #131313;
 }
